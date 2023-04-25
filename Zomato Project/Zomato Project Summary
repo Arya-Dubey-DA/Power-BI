@@ -1,0 +1,11 @@
+Problem Statement- Zomato is a restaurant aggregation and meal delivery service based in India. It is currently operating in several countries across the world. Zomato provides thorough information about numerous eateries as well as consumer reviews. Zomato's owners aim to find hidden irregularities in their company's data. The ultimate goal of this project is to examine the data in such a way that they can accurately assess their business performance.
+Data Gathering and Modelling- Data of restaurants has been given for all the continents in separate worksheets, which can be drilled down to countries and cities. 
+1.	All the data has been aggregated to make a single sheet for all the continents.
+2.	Few changes have been made in spellings and null values.
+Insights-  
+1.	Asia has the most restaurants among which India is on the top, while Africa and South America have the least number of restaurants, where Zomato can expand their business.
+2.	Only 25.66% of total restaurants have online delivery, which should be worked upon
+3.	Only 12.12% of total restaurants have table booking
+4.	All the restaurants having highest average ratings are from India
+5.	Among top cuisines come, North Indian, Chinese, Café, Bakery, and fast food.
+
